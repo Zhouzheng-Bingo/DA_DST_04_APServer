@@ -1,0 +1,8 @@
+E:\04专项\第三方函数包\APServer\TestAPServer\HttpListenerPost\HttpListenerPost\bin\Debug\HttpListenerPost.exe.config
+E:\04专项\第三方函数包\APServer\TestAPServer\HttpListenerPost\HttpListenerPost\bin\Debug\HttpListenerPost.exe
+E:\04专项\第三方函数包\APServer\TestAPServer\HttpListenerPost\HttpListenerPost\bin\Debug\HttpListenerPost.pdb
+E:\04专项\第三方函数包\APServer\TestAPServer\HttpListenerPost\HttpListenerPost\bin\Debug\Newtonsoft.Json.dll
+E:\04专项\第三方函数包\APServer\TestAPServer\HttpListenerPost\HttpListenerPost\bin\Debug\Newtonsoft.Json.xml
+E:\04专项\第三方函数包\APServer\TestAPServer\HttpListenerPost\HttpListenerPost\obj\Debug\HttpListenerPost.csprojResolveAssemblyReference.cache
+E:\04专项\第三方函数包\APServer\TestAPServer\HttpListenerPost\HttpListenerPost\obj\Debug\HttpListenerPost.exe
+E:\04专项\第三方函数包\APServer\TestAPServer\HttpListenerPost\HttpListenerPost\obj\Debug\HttpListenerPost.pdb

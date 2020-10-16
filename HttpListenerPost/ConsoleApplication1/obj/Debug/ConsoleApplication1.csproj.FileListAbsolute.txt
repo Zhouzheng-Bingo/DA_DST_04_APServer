@@ -1,0 +1,5 @@
+E:\04专项\第三方函数包\APServer\TestAPServer\HttpListenerPost\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\04专项\第三方函数包\APServer\TestAPServer\HttpListenerPost\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\04专项\第三方函数包\APServer\TestAPServer\HttpListenerPost\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\04专项\第三方函数包\APServer\TestAPServer\HttpListenerPost\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\04专项\第三方函数包\APServer\TestAPServer\HttpListenerPost\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,2 @@
+E:\04专项\第三方函数包\APServer\TestAPServer\HttpListenerPost\HttpListener\bin\Debug\HttpListener.exe.config
+E:\04专项\第三方函数包\APServer\TestAPServer\HttpListenerPost\HttpListener\obj\Debug\HttpListener.csprojResolveAssemblyReference.cache
